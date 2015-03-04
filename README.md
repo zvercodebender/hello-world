@@ -5,4 +5,4 @@ Just another repositiory
 
 This is some special notes for branches.
 
-small change
+small change 2
