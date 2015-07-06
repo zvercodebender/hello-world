@@ -1,0 +1,13 @@
+buildscript {
+  repositories {
+    jcenter()
+  }
+}
+
+version='1.0.0'
+
+apply plugin: 'war'
+
+war {
+   from 'src/main/webapp'
+}
