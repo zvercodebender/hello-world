@@ -12,6 +12,7 @@
    String stringDate2 = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(stringDate1);
 
    out.println(stringDate2);
+
 %>
 <hr>
 The current date and time are <%= stringDate2 %>
