@@ -14,7 +14,7 @@
    out.println(stringDate2);
 
 %>
-test 6
+test 7
 <hr>
 The current date and time are <%= stringDate2 %>
 <hr>
