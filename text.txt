@@ -1,1 +1,1 @@
-hi from gitHub in QA!
+hi from gitHub!
